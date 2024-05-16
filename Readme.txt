@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+welcome to our site
+https://jeff5124.github.io/culture/#
 
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
